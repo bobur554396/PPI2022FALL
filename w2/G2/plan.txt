@@ -1,0 +1,15 @@
+
+- [ ] data type sizeof
+- [ ] (++, --, +=, -=, *=, /=, %= )
+- [ ] comparison operators (==, !=, >, <, >=, <=)
+- [ ] printf with floating numbers (M_PI)
+- [ ] math functions - pow, round, ceil, floor
+
+
+- [ ] bit manipulation, or, xor, and, >>, <<, |=, &=, ^=, ~ (bitset; to_string, to_ulong)
+- [ ] and, or, xor
+- [ ] 2^n example
+- [ ] set 1 for i-th bit of number: 
+- [ ] invert i-th bit of number: 
+- [ ] set 0 for i-th bit of number:
+- [ ] identify i-th bit of number: 
