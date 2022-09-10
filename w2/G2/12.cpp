@@ -21,7 +21,7 @@ int main(){
     Output:
     7
 
-    5 - 0000 0111
+    5 - 0000 0101
     */
     int a = 5;
     int i;
