@@ -23,9 +23,10 @@ int main(){
 
     // our logic
     int sum = 0;
+    // sum = 7
     for(int i = 0; i < n; i++){
         if(a[i] % 2 == 1){
-            sum += a[i];
+            sum += a[i]; // 12
         }
     }
 
