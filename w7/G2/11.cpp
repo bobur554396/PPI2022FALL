@@ -2,9 +2,6 @@
 
 using namespace std;
 
-bool isPrime(){
-    
-}
 
 int main(){
     int n;

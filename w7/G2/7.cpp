@@ -11,7 +11,6 @@ int main(){
     int a, b;
     cin >> a >> b;
 
-    cout << res << endl;
     // int r = sum(a, b);
     // // cout << r << endl;
     // cout << sum(a, b) << endl;
