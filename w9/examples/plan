@@ -1,0 +1,47 @@
+Lecture 8
+
+- [x] What is STL?
+- [x] Algorithms, Containers, Functions, Iterators
+- [x] Containers
+    - [ ] vector
+    - [ ] queue
+    - [ ] stack
+    - [ ] set
+    - [ ] map
+- [x] What is Vector?
+    - [x] push_back(elm)
+    - [x] begin(), end()
+    - [x] size()
+    - [x] empty()
+    - [x] at(index)
+    - [x] front(), back()
+    - [x] sort with own function
+    - [x] iterator loop
+    - [x] erase(iterator pos), erase(iterator begin, iterator end)
+    - [x] clear()
+    - [x] Given N and N elements 
+    - [x] Infinity given numbers (stop when it - 0)
+    - [x] insert(pos address, elm)
+- [x] What is Set?
+    - [x] insert(elm)
+    - [x] begin(), end()
+    - [x] size()
+    - [x] empty()
+    - [x] clear()
+    - [x] find(elm)
+    - [x] erase(iterator pos), erase(elm)
+- [x] What is Map?
+    - [x] What is Pair?
+    - [x] insert(pair<K,V>)
+    - [x] begin() / end() / iterator
+    - [x] size()
+    - [x] StudentName and points list
+    - [x] Find student with max points
+    - [ ] 20BD0001   --- [{"PPI": 40}, {“Math": 39}, …]
+    - [ ] 20BD0001   --- {“first_name”, “last_name”}
+    - [ ] How many times occurs each letter in given string
+    - [ ] Read map data from terminal
+
+
+- [ ] Implementation of Set using Vector
+
