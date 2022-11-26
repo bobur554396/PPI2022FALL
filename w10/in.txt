@@ -1,0 +1,5 @@
+4
+student1 40
+student2 35
+student3 37
+student4 38
